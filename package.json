@@ -1,0 +1,23 @@
+{
+  "name": "belt-idler",
+  "description": "This is a module to provide different kinds of belt idlers.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobertFach/openscad-belt-idler.git"
+  },
+  "keywords": [
+    "OpenSCAD",
+    "belt",
+    "idler",
+    "construction"
+  ],
+  "author": "robertfach",
+  "bugs": {
+    "url": "https://github.com/RobertFach/openscad-belt-idler/issues"
+  },
+  "homepage": "https://github.com/RobertFach/openscad-belt-idler",
+  "dependencies": {
+    "mcad": "1.0.0"
+  }
+}

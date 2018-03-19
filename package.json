@@ -1,7 +1,7 @@
 {
   "name": "belt-idler",
   "description": "This is a module to provide different kinds of belt idlers.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/RobertFach/openscad-belt-idler.git"
@@ -12,7 +12,7 @@
     "idler",
     "construction"
   ],
-  "author": "robertfach",
+  "author": "robert.fach",
   "bugs": {
     "url": "https://github.com/RobertFach/openscad-belt-idler/issues"
   },
